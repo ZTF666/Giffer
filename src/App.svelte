@@ -55,6 +55,5 @@
 <div class="results">
   {#each gifs as gif}
     <img src={gif} alt="gif" />
-    <p>{gif.embed_url}</p>
   {/each}
 </div>
