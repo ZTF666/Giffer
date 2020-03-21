@@ -3,11 +3,15 @@
 This is a small project ,part of my javascript learning journey :D
 it consumes the Giphy api . it's very basic and simple
 
-````Installation
+## Project setup
+```
 pnpm install
-``or
+```
+###or
+```
 npm install
-
-```Run
+```
+##Run
+```
 npm run dev
-````
+```
