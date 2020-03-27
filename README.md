@@ -1,6 +1,6 @@
 # Giffer , a simple svelte app
 
-![](https://nabilelatif.web.app/assets/images/works/todo.gif)
+![](https://nabilelatif.web.app/assets/images/works/giffer.gif)
 This is a small project ,part of my javascript learning journey :D
 it consumes the Giphy api . it's very basic and simple
 
