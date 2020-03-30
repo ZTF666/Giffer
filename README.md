@@ -1,6 +1,6 @@
 # Giffer , a simple svelte app
 
-![alt texr](https://i.imgur.com/kfsCevQ.gif)
+![alt text](https://i.imgur.com/kfsCevQ.gif)
 
 ```
 This is a small project ,part of my javascript learning journey :D
