@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="../img/demo.gif"  >
+<img src="/img/demo.gif"  >
 </div>
 
 <p>This was made using : </p>
